@@ -12,6 +12,23 @@ cv:
       username: IMAbba5
 
   sections:
+    Education:
+      - institution: Bacha Khan University
+        location: Charsadda, Pakistan
+        area: Computer Science
+        studyType: BS
+        start_date: 2021
+        end_date: 2025
+        score: "CGPA: 3.54/4.00"
+
+      - institution: Khyber Pakhtunkhwa Board of Technical & Commerce Education
+        location: Peshawar, Pakistan
+        area: Information Technology
+        studyType: Diploma
+        start_date: 2022
+        end_date: 2022
+        score: "Percentage: 78.28%"
+
     Experience:
       - company: Independent Research
         position: Self Employed Researcher
@@ -34,23 +51,6 @@ cv:
           - Built and improved features for an e-commerce platform and a library management system.
           - Practiced software development lifecycle workflows and agile team collaboration.
           - Delivered production-focused solutions with peer feedback and iterative improvements.
-
-    Education:
-      - institution: Bacha Khan University
-        location: Charsadda, Pakistan
-        area: Computer Science
-        studyType: BS
-        start_date: 2021
-        end_date: 2025
-        score: "CGPA: 3.54/4.00"
-
-      - institution: Khyber Pakhtunkhwa Board of Technical & Commerce Education
-        location: Peshawar, Pakistan
-        area: Information Technology
-        studyType: Diploma
-        start_date: 2022
-        end_date: 2022
-        score: "Percentage: 78.28%"
 
     Publications:
       - title: "SPC-Net: Salient Prompt Combination of SAM and CLIP for Salient Object Detection"

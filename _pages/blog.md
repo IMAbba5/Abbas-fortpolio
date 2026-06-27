@@ -1,7 +1,8 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: Blog
+description: Research notes, experiments, and technical writing by Muhammad Abbas.
 nav: true
 nav_order: 1
 pagination:

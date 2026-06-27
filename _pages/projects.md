@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Selected research and engineering projects.
+description: Selected AI, machine learning, and software engineering projects by Muhammad Abbas.
 nav: true
 nav_order: 3
 display_categories: [research, engineering]

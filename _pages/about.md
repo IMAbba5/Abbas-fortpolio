@@ -1,8 +1,9 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: AI/ML Researcher | Computer Vision | Deep Learning
+description: Muhammad Abbas is an AI/ML researcher focused on computer vision, deep learning, and robust multimodal representation learning.
 
 profile:
   align: right
@@ -31,10 +32,10 @@ I am **Muhammad Abbas**, an independent researcher focused on **deep learning**,
 
 My recent work includes:
 
-- **SPC-Net** for salient object detection by combining SAM and CLIP through a multi-prompt strategy.
-- Knowledge distillation from **Swin-Base** to **GCViT** for fine-grained bird species recognition.
-- Efficient experimentation on limited hardware (single 6GB GPU) with strong benchmark performance.
+- **SPC-Net** for salient object detection, combining SAM and CLIP through a multi-prompt strategy.
+- A knowledge distillation pipeline from **Swin-Base** to **GCViT** for fine-grained bird species recognition.
+- Efficient experimentation on limited hardware (single 6GB GPU) while maintaining strong benchmark performance.
 
-I am currently preparing for a **PhD position** in Computer Science with interests in representation learning, multimodal AI, and robust visual understanding.
+I am currently preparing for a **PhD position** in Computer Science, with research interests in representation learning, multimodal AI, and robust visual understanding.
 
-If you want to collaborate on research, feel free to contact me by email.
+If you are interested in research collaboration, feel free to contact me by email.
