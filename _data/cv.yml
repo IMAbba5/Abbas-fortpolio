@@ -53,7 +53,7 @@ cv:
         score: "Percentage: 78.28%"
 
     Publications:
-      - title: SPC-Net: Salient Prompt Combination of SAM and CLIP for Salient Object Detection
+      - title: "SPC-Net: Salient Prompt Combination of SAM and CLIP for Salient Object Detection"
         authors:
           - Muhammad Abbas
           - Muhammad Farooq Bulbul
@@ -62,7 +62,7 @@ cv:
         publisher: Submitted to WACV 2027
         releaseDate: 2027
 
-      - title: Distilling Swin-Base Knowledge into GCViT for Robust Bird Species Recognition
+      - title: "Distilling Swin-Base Knowledge into GCViT for Robust Bird Species Recognition"
         authors:
           - Muhammad Abbas
           - Muhammad Farooq Bulbul
@@ -102,6 +102,6 @@ cv:
 
     References:
       - name: Dr. Dilawar Shah
-        reference: Assistant Professor at Bacha Khan University, final year thesis supervisor. Email: dilawar_shah@bkuc.edu.pk
+        reference: "Assistant Professor at Bacha Khan University, final year thesis supervisor. Email: dilawar_shah@bkuc.edu.pk"
       - name: Dr. Amin Ullah
-        reference: Senior AI/ML Engineer at Boeing Research & Technology, research mentor. Email: amin.ullah@boeing.com
+        reference: "Senior AI/ML Engineer at Boeing Research & Technology, research mentor. Email: amin.ullah@boeing.com"
